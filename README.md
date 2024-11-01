@@ -6,7 +6,7 @@ web.dev에서 웹 접근성부분을 중점으로 번역합니다
 - [x] How is digital accessibility measured?
 - [x] ARIA and HTML
 - [x] Content structure
-- [ ] The Document
+- [x] The Document
 - [ ] Keyboard focus
 - [ ] JavaScript
 - [ ] Images
