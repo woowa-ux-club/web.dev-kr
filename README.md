@@ -4,8 +4,8 @@ web.dev에서 웹 접근성부분을 중점으로 번역합니다
 
 - [x] What is digital accessibility, and why does it matter?
 - [x] How is digital accessibility measured?
-- [ ] ARIA and HTML
-- [ ] Content structure
+- [x] ARIA and HTML
+- [x] Content structure
 - [ ] The Document
 - [ ] Keyboard focus
 - [ ] JavaScript
