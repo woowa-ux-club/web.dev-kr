@@ -8,7 +8,7 @@ web.dev에서 웹 접근성부분을 중점으로 번역합니다
 - [x] Content structure
 - [x] The Document
 - [x] Keyboard focus
-- [ ] JavaScript
+- [x] JavaScript
 - [x] Images
 - [ ] Color and contrast
 - [ ] Animation and motion
