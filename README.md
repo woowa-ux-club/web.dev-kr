@@ -21,9 +21,9 @@
 |  ✅  | JavaScript                                             |
 |  ✅  | Images                                                 |
 |  ✅  | Color and contrast                                     |
-|  🏗️  | Animation and motion                                   |
+|  ✅  | Animation and motion                                   |
 |  ✅  | Typography                                             |
-|  🏗️  | Video and audio                                        |
+|  ✅  | Video and audio                                        |
 |  ✅  | Forms                                                  |
 |  🏗️  | Patterns, components, and design systems               |
 |  🏗️  | Design and user experience                             |
