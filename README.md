@@ -14,7 +14,7 @@ web.dev에서 웹 접근성부분을 중점으로 번역합니다
 - [ ] Animation and motion
 - [x] Typography
 - [ ] Video and audio
-- [ ] Forms
+- [x] Forms
 - [ ] Patterns, components, and design systems
 - [ ] Design and user experience
 - [ ] Automated accessibility testing
