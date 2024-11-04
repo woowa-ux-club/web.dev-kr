@@ -10,28 +10,28 @@
 
 ### Accessibility
 
-| 상태 | 문서 이름                                                                                                                                                                                                  |
-| :--: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  ✅  | [What is digital accessibility, and why does it matter?](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/2.What%20is%20digital%20accessibility%2C%20and%20why%20does%20it%20matter.md) |
-|  ✅  | [How is digital accessibility measured?](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/3.How%20is%20digital%20accessibility%20measured.md)                                           |
-|  ✅  | [ARIA and HTML](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/4.ARIA%20and%20HTML.md)                                                                                                |
-|  ✅  | [Content structure](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/5.Content%20structure.md)                                                                                          |
-|  ✅  | [The Document](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/6.The%20Document.md)                                                                                                    |
-|  ✅  | [Keyboard focus](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/7.Keyboard%20focus.md)                                                                                                |
-|  ✅  | [JavaScript](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/8.JavaScript.md)                                                                                                          |
-|  ✅  | [Images](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/9.Images.md)                                                                                                                  |
-|  ✅  | [Color and contrast](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/10.Color%20and%20contrast%20.md)                                                                                  |
-|  ✅  | [Animation and motion](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/11.Animation%20and%20motion.md)                                                                                 |
-|  ✅  | [Typography](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/12.Typography.md)                                                                                                         |
-|  ✅  | [Video and audio](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/13.Video%20and%20audio.md)                                                                                           |
-|  ✅  | [Forms](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/14.Forms.md)                                                                                                                   |
-|  🏗️  | Patterns, components, and design systems                                                                                                                                                                   |
-|  🏗️  | Design and user experience                                                                                                                                                                                 |
-|  🏗️  | Automated accessibility testing                                                                                                                                                                            |
-|  🏗️  | Manual accessibility testing                                                                                                                                                                               |
-|  🏗️  | Assistive Technology testing                                                                                                                                                                               |
-|  🏗️  | Conclusion and next steps                                                                                                                                                                                  |
-|  🏗️  | Glossary                                                                                                                                                                                                   |
+| 상태 | 문서 이름                                                                                                                                                                                                      |
+| :--: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  ✅  | [02. What is digital accessibility, and why does it matter?](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/2.What%20is%20digital%20accessibility%2C%20and%20why%20does%20it%20matter.md) |
+|  ✅  | [03. How is digital accessibility measured?](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/3.How%20is%20digital%20accessibility%20measured.md)                                           |
+|  ✅  | [04. ARIA and HTML](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/4.ARIA%20and%20HTML.md)                                                                                                |
+|  ✅  | [05. Content structure](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/5.Content%20structure.md)                                                                                          |
+|  ✅  | [06. The Document](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/6.The%20Document.md)                                                                                                    |
+|  ✅  | [07. Keyboard focus](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/7.Keyboard%20focus.md)                                                                                                |
+|  ✅  | [08. JavaScript](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/8.JavaScript.md)                                                                                                          |
+|  ✅  | [09. Images](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/9.Images.md)                                                                                                                  |
+|  ✅  | [10. Color and contrast](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/10.Color%20and%20contrast%20.md)                                                                                  |
+|  ✅  | [11. Animation and motion](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/11.Animation%20and%20motion.md)                                                                                 |
+|  ✅  | [12. Typography](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/12.Typography.md)                                                                                                         |
+|  ✅  | [13. Video and audio](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/13.Video%20and%20audio.md)                                                                                           |
+|  ✅  | [14. Forms](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/14.Forms.md)                                                                                                                   |
+|  🏗️  | 15. Patterns, components, and design systems                                                                                                                                                                   |
+|  🏗️  | 16. Design and user experience                                                                                                                                                                                 |
+|  🏗️  | 17. Automated accessibility testing                                                                                                                                                                            |
+|  🏗️  | 18. Manual accessibility testing                                                                                                                                                                               |
+|  🏗️  | 19. Assistive Technology testing                                                                                                                                                                               |
+|  🏗️  | 20. Conclusion and next steps                                                                                                                                                                                  |
+|  🏗️  | 21. Glossary                                                                                                                                                                                                   |
 
 </br>
 
