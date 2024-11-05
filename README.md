@@ -25,7 +25,7 @@
 |  ✅  | [12. Typography](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/12.Typography.md)                                                                                                         |
 |  ✅  | [13. Video and audio](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/13.Video%20and%20audio.md)                                                                                           |
 |  ✅  | [14. Forms](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/14.Forms.md)                                                                                                                   |
-|  🏗️  | 15. Patterns, components, and design systems                                                                                                                                                                   |
+|  ✅  | [15. Patterns, components, and design systems](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/15.Patterns%2C%20components%2C%20and%20design%20systems.md)                                 |
 |  🏗️  | 16. Design and user experience                                                                                                                                                                                 |
 |  🏗️  | 17. Automated accessibility testing                                                                                                                                                                            |
 |  🏗️  | 18. Manual accessibility testing                                                                                                                                                                               |
