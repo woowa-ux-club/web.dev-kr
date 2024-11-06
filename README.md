@@ -27,7 +27,7 @@
 |  ✅  | [14. Forms](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/14.Forms.md)                                                                                                                   |
 |  ✅  | [15. Patterns, components, and design systems](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/15.Patterns%2C%20components%2C%20and%20design%20systems.md)                                 |
 |  ✅  | [16. Design and user experience](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/16.Design%20and%20user%20experience.md)                                                                   |
-|  ✅  | [17. Automated accessibility](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/17.Automated%20accessibility%20testing.md) testing                                                           |
+|  ✅  | [17. Automated accessibility testing](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/17.Automated%20accessibility%20testing.md)                                                           |
 |  🏗️  | 18. Manual accessibility testing                                                                                                                                                                               |
 |  🏗️  | 19. Assistive Technology testing                                                                                                                                                                               |
 |  🏗️  | 20. Conclusion and next steps                                                                                                                                                                                  |
