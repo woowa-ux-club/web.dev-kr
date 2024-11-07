@@ -29,7 +29,7 @@
 |  ✅  | [16. Design and user experience](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/16.Design%20and%20user%20experience.md)                                                                   |
 |  ✅  | [17. Automated accessibility testing](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/17.Automated%20accessibility%20testing.md)                                                           |
 |  🏗️  | 18. Manual accessibility testing                                                                                                                                                                               |
-|  🏗️  | 19. Assistive Technology testing                                                                                                                                                                               |
+|  ✅  | [19. Assistive Technology testing](https://github.com/woowa-ux-club/web.dev-kr/blob/main/Accessibility/19.Assistive%20Technology%20testing.md)                                                                 |
 |  🏗️  | 20. Conclusion and next steps                                                                                                                                                                                  |
 |  🏗️  | 21. Glossary                                                                                                                                                                                                   |
 
